@@ -1,3 +1,3 @@
 # Emaily
 
-And Email app that allows you to send multiple emails at the same time.
+An email app that allows you to login and send multiple emails at the same time.
